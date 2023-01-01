@@ -1,13 +1,16 @@
 # Jammming With Spotify Api
 ![](pics/Jammming%20.png)
-- The jammming app is codeacademy practice project from ** Full Stack Developer Path **.
-- The static  app created by ** JSX ** Elements with React.]
+
+
+## The link to the live Page : ![](http://faded-girl.surge.sh)
+- The jammming app is codeacademy practice project from **Full Stack Developer Path**.
+- The static  app created by **JSX** Elements with React.]
 - Spotify Api provides their library data so user could Access their library with this app.
 - Spotify to be accessed by Get and Post method to get or upload data to their database.
-- This app uses ** Implicit Grand ** spotify  authorization method to this project. 
-- This project deployed on ** surge ** deployment platform.
+- This app uses **Implicit Grand** spotify  authorization method to this project. 
+- This project deployed on **surge** deployment platform.
 # Language Used
-- React Javascript Library ** Jsx **`
+- React Javascript Library **Jsx**`
 - Hyper Text Markup Language
 - Cascading style Sheet
 
