@@ -10,7 +10,7 @@
 - This app uses **Implicit Grand** spotify  authorization method to this project. 
 - This project deployed on **surge** deployment platform.
 # Language Used
-- React Javascript Library **Jsx**`
+- React Javascript Library **Jsx**
 - Hyper Text Markup Language
 - Cascading style Sheet
 
