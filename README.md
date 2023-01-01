@@ -2,7 +2,7 @@
 ![](pics/Jammming%20.png)
 
 
-## The link to the live Page : <a href="http://faded-girl.surge.sh">The Jammming</a>
+## The link to the live page : <a href="http://faded-girl.surge.sh">The Jammming</a>
 - The jammming app is codeacademy practice project from **Full Stack Developer Path**.
 - The static  app created by **JSX** Elements with React.]
 - Spotify Api provides their library data so user could Access their library with this app.
